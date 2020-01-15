@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "747033714852",
+    "firebase_url": "https://gambar-in-database.firebaseio.com",
+    "project_id": "gambar-in-database",
+    "storage_bucket": "gambar-in-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747033714852:android:aca997a9d39eca82f50631",
+        "android_client_info": {
+          "package_name": "com.teknokrat.mobile2019.if17fx.a16312309.gambarin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747033714852-sqrbvvq15ijvun8torpn6frrra8ktt6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teknokrat.mobile2019.if17fx.a16312309.gambarin",
+            "certificate_hash": "d0aba67bb3bab6b0501f86a87decda7eef08fa87"
+          }
+        },
+        {
+          "client_id": "747033714852-ht00p3uv4ch71rdhbso6tcsrokiuch81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYgyFS5z3gWZEvrDdgywwJ-CKaDYCS4Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747033714852-ht00p3uv4ch71rdhbso6tcsrokiuch81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
